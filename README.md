@@ -1,0 +1,1 @@
+<h1>Reservation app made in Django</h1>
